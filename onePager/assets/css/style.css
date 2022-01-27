@@ -622,9 +622,10 @@ p {
       height: 500px; } }
   .header-banner .banner-image {
     position: absolute;
-    top: 0;
-    right: 0;
-    width: 55%;
+    top: 5%;
+    right: 0%;
+    width: 52%;
+    border-radius: 2%;
     height: 100%; }
   .header-banner .banner-content {
     position: relative;
